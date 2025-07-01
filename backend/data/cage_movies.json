@@ -9,7 +9,12 @@
     "type": "tvMovie",
     "runtime": "60",
     "description": "Here's the lives of 7 teenage friends in 1981, singing, dancing and breaking the 4th wall.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjZlYTFiMzgtZWYwMS00OTExLWI3YmQtYTc5YzlmYzJiMTI0XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjZlYTFiMzgtZWYwMS00OTExLWI3YmQtYTc5YzlmYzJiMTI0XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_SX300.jpg",
+    "actors": [
+      "Crispin Glover",
+      "Jill Schoelen",
+      "Nicolas Cage"
+    ]
   },
   {
     "id": "tt0086216",
@@ -23,7 +28,12 @@
     "type": "movie",
     "runtime": "94",
     "description": "Absent-minded street thug Rusty James struggles to live up to his legendary older brother's reputation, and longs for the days of gang warfare.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDUyMDdmYmMtYjE2Ni00MGE0LWJkNjQtYjQwMTMyMjhkMmE5XkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDUyMDdmYmMtYjE2Ni00MGE0LWJkNjQtYjQwMTMyMjhkMmE5XkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Matt Dillon",
+      "Mickey Rourke",
+      "Diane Lane"
+    ]
   },
   {
     "id": "tt0086525",
@@ -36,7 +46,12 @@
     "type": "movie",
     "runtime": "99",
     "description": "Julie, a girl from the valley, meets Randy, a punk from the city. They are from different worlds and find love. Somehow they need to stay together in spite of her trendy, shallow friends.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NzI5OTgyMV5BMl5BanBnXkFtZTgwODgwNjU1MDE@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NzI5OTgyMV5BMl5BanBnXkFtZTgwODgwNjU1MDE@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Deborah Foreman",
+      "Elizabeth Daily"
+    ]
   },
   {
     "id": "tt0086969",
@@ -49,7 +64,12 @@
     "type": "movie",
     "runtime": "120",
     "description": "After two friends return home from the Vietnam War one becomes mentally unstable and obsesses with becoming a bird.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTlmY2M4OTUtNDgyZS00OTRlLTgzMGMtNjljNTgxMDU4ZTBhXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTlmY2M4OTUtNDgyZS00OTRlLTgzMGMtNjljNTgxMDU4ZTBhXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Matthew Modine",
+      "Nicolas Cage",
+      "John Harkins"
+    ]
   },
   {
     "id": "tt0087089",
@@ -63,7 +83,12 @@
     "type": "movie",
     "runtime": "129",
     "description": "Meet the jazz musicians, dancers, owner, and guests (like gangster Dutch Schultz) of The Cotton Club in 1928-1930s Harlem.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWNiNDcyOTktZTFmMi00N2IyLWJhMTctMWRkYjY0M2VhNjAxXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWNiNDcyOTktZTFmMi00N2IyLWJhMTctMWRkYjY0M2VhNjAxXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Richard Gere",
+      "Gregory Hines",
+      "Diane Lane"
+    ]
   },
   {
     "id": "tt0087968",
@@ -77,7 +102,12 @@
     "type": "movie",
     "runtime": "108",
     "description": "In 1942 California, two young men await induction into the U.S. Marines and say goodbye to their girlfriends.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDJkMzY1ZjYtMTI4Ni00M2U2LTlmOWYtMTllMWUxNzU3YTU0XkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDJkMzY1ZjYtMTI4Ni00M2U2LTlmOWYtMTllMWUxNzU3YTU0XkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Sean Penn",
+      "Elizabeth McGovern",
+      "Nicolas Cage"
+    ]
   },
   {
     "id": "tt0090769",
@@ -91,7 +121,12 @@
     "type": "movie",
     "runtime": "97",
     "description": "A biography of the famous sculler Ned Hanlon who led a colorful life as a bootlegger at the turn of the 20th century.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDk3ZmYyYTgtYzkzYS00YjViLWIzMzQtNDJlMjViZjJmZTg4XkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDk3ZmYyYTgtYzkzYS00YjViLWIzMzQtNDJlMjViZjJmZTg4XkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Cynthia Dale",
+      "Christopher Plummer"
+    ]
   },
   {
     "id": "tt0091738",
@@ -105,7 +140,12 @@
     "type": "movie",
     "runtime": "103",
     "description": "Peggy Sue, on the verge of a divorce, faints at her 25th high school reunion, and wakes up to find herself back in 1960, leading her to try to spot and correct the mistakes that led to disappointments and an unhappy marriage.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDJjZjM5MDEtMjM3My00ODgwLWE5YTItMGZlMGQ1N2ZjNDc1XkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDJjZjM5MDEtMjM3My00ODgwLWE5YTItMGZlMGQ1N2ZjNDc1XkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Kathleen Turner",
+      "Nicolas Cage",
+      "Barry Miller"
+    ]
   },
   {
     "id": "tt0093565",
@@ -119,7 +159,12 @@
     "type": "movie",
     "runtime": "102",
     "description": "Loretta Castorini, a bookkeeper from Brooklyn, New York, finds herself in a difficult situation when she falls for the brother of the man she has agreed to marry.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjdiMjI1MTQtMWIzNC00OTg2LWI5NjItYTBiMTYzMmIxYmNjXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjdiMjI1MTQtMWIzNC00OTg2LWI5NjItYTBiMTYzMmIxYmNjXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Cher",
+      "Nicolas Cage",
+      "Olympia Dukakis"
+    ]
   },
   {
     "id": "tt0093822",
@@ -132,7 +177,12 @@
     "type": "movie",
     "runtime": "94",
     "description": "When a childless couple--an ex-con and an ex-cop--decide to help themselves to one of another family's quintuplets, their lives become more complicated than they anticipated.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWIzMTdmZDgtZTc2NS00MDA1LWFiMmMtYzc5YzY0YTEyZjE5XkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWIzMTdmZDgtZTc2NS00MDA1LWFiMmMtYzc5YzY0YTEyZjE5XkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Holly Hunter",
+      "Trey Wilson"
+    ]
   },
   {
     "id": "tt0095722",
@@ -145,7 +195,12 @@
     "type": "movie",
     "runtime": "90",
     "description": "After their cars collide on a desert highway in the middle of nowhere, two friends and a woman they both like must wait for someone to pass by and help them. Unfortunately, those who do stop turn out to be criminals, eccentrics or...",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDUxM2I4M2UtYWJlYS00YTJiLThiY2UtYTU4OGEzZTE1YWM4XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDUxM2I4M2UtYWJlYS00YTJiLThiY2UtYTU4OGEzZTE1YWM4XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg",
+    "actors": [
+      "Claudia Christian",
+      "Andy Lauer",
+      "Peter Berg"
+    ]
   },
   {
     "id": "tt0098577",
@@ -159,7 +214,12 @@
     "type": "movie",
     "runtime": "103",
     "description": "After an encounter with a neck-biter, a publishing executive thinks that he's turning into a vampire.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTM1MDAyMDYxMV5BMl5BanBnXkFtZTcwNDQwMzc3NA@@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM1MDAyMDYxMV5BMl5BanBnXkFtZTcwNDQwMzc3NA@@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Maria Conchita Alonso",
+      "Jennifer Beals"
+    ]
   },
   {
     "id": "tt0099575",
@@ -172,7 +232,12 @@
     "type": "movie",
     "runtime": "85",
     "description": "Elite Apache helicopter pilots are tasked with destroying powerful armed drug cartels operating in South America.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmY5NjI4ODYtMTgxMy00MjA1LWI5NzMtOWFhMDBiYzkxYjcwXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmY5NjI4ODYtMTgxMy00MjA1LWI5NzMtOWFhMDBiYzkxYjcwXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Tommy Lee Jones",
+      "Sean Young"
+    ]
   },
   {
     "id": "tt0100762",
@@ -185,7 +250,12 @@
     "type": "movie",
     "runtime": "110",
     "description": "In 1936, when Ethiopia is being invaded by the Italian army, Lieutenant Silvestri sets off for the nearest camp hospital to take care of a toothache. En route he meets a young Ethiopian girl, which leads to a tragic course of even...",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjUxY2FhY2ItZmEyNS00YTlkLTljN2UtNDc5N2Q4ZjIzMTIzXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjUxY2FhY2ItZmEyNS00YTlkLTljN2UtNDc5N2Q4ZjIzMTIzXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Ricky Tognazzi",
+      "Patrice-Flora Praxo"
+    ]
   },
   {
     "id": "tt0100935",
@@ -199,7 +269,12 @@
     "type": "movie",
     "runtime": "125",
     "description": "Young lovers Sailor and Lula run from the variety of weirdos that Lula's mom has hired to kill Sailor.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmUyNjMzMjEtMGFkNy00MDA1LWI0NGEtMDY5OGU1N2NmNDg1XkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmUyNjMzMjEtMGFkNy00MDA1LWI0NGEtMDY5OGU1N2NmNDg1XkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Laura Dern",
+      "Willem Dafoe"
+    ]
   },
   {
     "id": "tt0101004",
@@ -213,7 +288,12 @@
     "type": "movie",
     "runtime": "100",
     "description": "Thierry's wife Zandalee married the poet he once was. Taking over his dad's company in New Orleans gives him stress and impotence. Thierry meets his high school buddy Johnny at a bachelor party. The painter Johnny can satisfy Zand...",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzNjZDU3OGMtZmYxNy00MGE3LTkyMTgtZDFkYWJlZGU3MjllXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzNjZDU3OGMtZmYxNy00MGE3LTkyMTgtZDFkYWJlZGU3MjllXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Erika Anderson",
+      "Judge Reinhold"
+    ]
   },
   {
     "id": "tt0104438",
@@ -227,7 +307,12 @@
     "type": "movie",
     "runtime": "96",
     "description": "Jack loses $65,000 in poker in Las Vegas, where he's marrying Betsy. The wedding will have to wait as the poker winner wants the weekend with Betsy to cancel the debt. She accepts. Whom will she marry?",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjZmOWU3MzEtZGMzNS00ZDdkLWIxNmEtNDgxMzk2YmJkMGJkXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjZmOWU3MzEtZGMzNS00ZDdkLWIxNmEtNDgxMzk2YmJkMGJkXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "James Caan",
+      "Nicolas Cage",
+      "Sarah Jessica Parker"
+    ]
   },
   {
     "id": "tt0105226",
@@ -241,7 +326,12 @@
     "type": "movie",
     "runtime": "98",
     "description": "Upon arriving to a small town, a drifter is mistaken for a hitman, but when the real hitman arrives, complications ensue.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjY2MzA5NWEtZmM5ZS00ZGYwLTg2NjItOWQyYTk5YTI4ZWM3XkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjY2MzA5NWEtZmM5ZS00ZGYwLTg2NjItOWQyYTk5YTI4ZWM3XkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Dennis Hopper",
+      "Lara Flynn Boyle"
+    ]
   },
   {
     "id": "tt0106266",
@@ -254,7 +344,12 @@
     "type": "movie",
     "runtime": "96",
     "description": "A Pulitzer prize writer buys a cabin. The neighbors get suspicious when a stranger \"breaks in\". They see a black man and call the police, who start shooting at him. The sheriff tries a cover-up involving a white petty crook. Bad i...",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWE3ODk2YmEtNDhiMC00OTE0LWIyNzctYjkxZDllNjY1NzIyXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWE3ODk2YmEtNDhiMC00OTE0LWIyNzctYjkxZDllNjY1NzIyXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Samuel L. Jackson",
+      "Michael Lerner"
+    ]
   },
   {
     "id": "tt0106684",
@@ -267,7 +362,12 @@
     "type": "movie",
     "runtime": "98",
     "description": "When Joe loses his dad in a sting, he contacts his dad's twin, Lou, who has a major sting planned. Lou's helper feels threatened by Joe. Who's conning who?",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWViNzI5ODgtZTYyZi00Njk5LTllODgtNjM4NGQ0NmVlNjQwXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWViNzI5ODgtZTYyZi00Njk5LTllODgtNjM4NGQ0NmVlNjQwXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Michael Biehn",
+      "Sarah Trigger",
+      "Nicolas Cage"
+    ]
   },
   {
     "id": "tt0109951",
@@ -280,7 +380,12 @@
     "type": "movie",
     "runtime": "96",
     "description": "A former U.S. First Lady wants a particular Secret Service agent to head her bodyguard detail, even though he can't stand her.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjNkYTQyNTItYzFkMi00MzhjLWEwZjQtZmZkM2JhMWQ1NjEyXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjNkYTQyNTItYzFkMi00MzhjLWEwZjQtZmZkM2JhMWQ1NjEyXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Shirley MacLaine",
+      "Nicolas Cage",
+      "Austin Pendleton"
+    ]
   },
   {
     "id": "tt0110167",
@@ -294,7 +399,12 @@
     "type": "movie",
     "runtime": "101",
     "description": "A police officer promises to share his lottery ticket with a waitress in lieu of a tip.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDAxZTM1MGMtZmE1ZC00ZjliLTgwNzYtMThmY2E5NmUxZTA2XkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDAxZTM1MGMtZmE1ZC00ZjliLTgwNzYtMThmY2E5NmUxZTA2XkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Bridget Fonda",
+      "Rosie Perez"
+    ]
   },
   {
     "id": "tt0111477",
@@ -308,7 +418,12 @@
     "type": "movie",
     "runtime": "111",
     "description": "Residents of a friendly Pennsylvania town foil three brothers' plan to rob a bank on Christmas Eve.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTQ2ODEzNDktOTdhMy00NTdhLTljYmUtNTM0MmIzNWRhZGZjXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTQ2ODEzNDktOTdhMy00NTdhLTljYmUtNTM0MmIzNWRhZGZjXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Jon Lovitz",
+      "Dana Carvey"
+    ]
   },
   {
     "id": "tt0113552",
@@ -322,7 +437,12 @@
     "type": "movie",
     "runtime": "101",
     "description": "A reformed convict goes undercover with the help of an angry detective to ensnare a psychotic mobster.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWYxNGZjMDgtOWRjMC00NTYwLWIwZjAtNjJlYmQ3MmZmOWQzXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWYxNGZjMDgtOWRjMC00NTYwLWIwZjAtNjJlYmQ3MmZmOWQzXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "David Caruso",
+      "Samuel L. Jackson",
+      "Nicolas Cage"
+    ]
   },
   {
     "id": "tt0113627",
@@ -335,7 +455,12 @@
     "type": "movie",
     "runtime": "111",
     "description": "Ben Sanderson, a Hollywood screenwriter who lost everything because of his alcoholism, arrives in Las Vegas to drink himself to death. There, he meets and forms an uneasy friendship and non-interference pact with prostitute Sera.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDg3MDM5NTI0MF5BMl5BanBnXkFtZTcwNDY0NDk0NA@@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDg3MDM5NTI0MF5BMl5BanBnXkFtZTcwNDY0NDk0NA@@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Elisabeth Shue",
+      "Julian Sands"
+    ]
   },
   {
     "id": "tt0117500",
@@ -349,7 +474,12 @@
     "type": "movie",
     "runtime": "136",
     "description": "An FBI chemical weapons expert, and a former SAS solider turned political prisoner, must break into Alcatraz prison when a rogue military group, led by a renegade general, take it over and threaten a nerve gas attack on San Franci...",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDhkYjRiZWEtZTE0Ny00ZjA1LThmNjgtM2UyYTQzODA4MjdhXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDhkYjRiZWEtZTE0Ny00ZjA1LThmNjgtM2UyYTQzODA4MjdhXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Sean Connery",
+      "Nicolas Cage",
+      "Ed Harris"
+    ]
   },
   {
     "id": "tt0118880",
@@ -363,7 +493,12 @@
     "type": "movie",
     "runtime": "115",
     "description": "Newly-paroled ex-con and former U.S. Ranger Cameron Poe finds himself trapped in a prisoner-transport plane when the passengers seize control.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BODcxOGFjOTEtM2M3Zi00ZWNiLWFjMTYtZDQ0Yjg2NTE2MzNiXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BODcxOGFjOTEtM2M3Zi00ZWNiLWFjMTYtZDQ0Yjg2NTE2MzNiXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "John Cusack",
+      "John Malkovich"
+    ]
   },
   {
     "id": "tt0119094",
@@ -377,7 +512,12 @@
     "type": "movie",
     "runtime": "138",
     "description": "To foil a terrorist plot, an FBI agent assumes the identity of the criminal who murdered his son via facial transplant surgery, but the crook wakes up prematurely and vows revenge.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGQyOWNmYTgtZWY0NS00NzhjLTg3NmMtMzcwYzQ2OTA2OTJkXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGQyOWNmYTgtZWY0NS00NzhjLTg3NmMtMzcwYzQ2OTA2OTJkXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "John Travolta",
+      "Nicolas Cage",
+      "Joan Allen"
+    ]
   },
   {
     "id": "tt0120632",
@@ -391,7 +531,12 @@
     "type": "movie",
     "runtime": "114",
     "description": "An angel on Earth, a doctor unable to believe, a patient with a secret, a love story made in Heaven.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BODYwMzM3ODEtZWZjOS00NWZhLWE2MWUtMDFlMWNiNGEwOWNlXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BODYwMzM3ODEtZWZjOS00NWZhLWE2MWUtMDFlMWNiNGEwOWNlXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Meg Ryan",
+      "Andre Braugher"
+    ]
   },
   {
     "id": "tt0120832",
@@ -405,7 +550,12 @@
     "type": "movie",
     "runtime": "98",
     "description": "Corrupt Atlantic City police officer Rick Santoro and Navy Commander Kevin Dunn join forces to investigate both the assassination of Secretary of Defense Charles Kirkland and the disappearance of a beautiful stranger.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWFhNWFhOTktZmY2ZS00OTAyLTg5MWMtYTY1OTkxYWMxMDRiXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWFhNWFhOTktZmY2ZS00OTAyLTg5MWMtYTY1OTkxYWMxMDRiXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Gary Sinise",
+      "John Heard"
+    ]
   },
   {
     "id": "tt0134273",
@@ -419,7 +569,12 @@
     "type": "movie",
     "runtime": "123",
     "description": "A private investigator is hired to discover if a \"snuff film\" is authentic or not.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmEzZjIzYzQtOGI0MS00NmQ5LWFmYjktYTEwNTUxNDhmY2IzXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmEzZjIzYzQtOGI0MS00NmQ5LWFmYjktYTEwNTUxNDhmY2IzXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Joaquin Phoenix",
+      "James Gandolfini"
+    ]
   },
   {
     "id": "tt0163988",
@@ -432,7 +587,12 @@
     "type": "movie",
     "runtime": "121",
     "description": "Haunted by the patients he failed to save, a monumentally burned-out Manhattan ambulance paramedic fights to maintain his sanity over three increasingly turbulent nights.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGVjYjU5YzItYTVmMS00ZTUwLTkzMDgtYzI5MGI2MmFkZmQ0XkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGVjYjU5YzItYTVmMS00ZTUwLTkzMDgtYzI5MGI2MmFkZmQ0XkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Patricia Arquette",
+      "John Goodman"
+    ]
   },
   {
     "id": "tt0187078",
@@ -446,7 +606,12 @@
     "type": "movie",
     "runtime": "118",
     "description": "To save his brother, ex-thief Memphis must steal 50 luxury cars in 3 days for a crime boss. He reunites his old crew, including his mentor Otto and ex-girlfriend Sway, while police track them.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTIwMzExNDEwN15BMl5BanBnXkFtZTYwODMxMzg2._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTIwMzExNDEwN15BMl5BanBnXkFtZTYwODMxMzg2._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Angelina Jolie",
+      "Giovanni Ribisi"
+    ]
   },
   {
     "id": "tt0218967",
@@ -460,7 +625,12 @@
     "type": "movie",
     "runtime": "125",
     "description": "Offered the opportunity to see how the other half lives, a fast-lane investment broker, wakes up to find that his sports car and girlfriend have become a mini-van and a wife.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2I4ODE3YzQtMzZhMy00YjhlLWE1MmMtYTA0MjkxNTJmMTZlXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2I4ODE3YzQtMzZhMy00YjhlLWE1MmMtYTA0MjkxNTJmMTZlXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Téa Leoni",
+      "Don Cheadle"
+    ]
   },
   {
     "id": "tt0238112",
@@ -474,7 +644,12 @@
     "type": "movie",
     "runtime": "131",
     "description": "When a fisherman leaves to fight with the Greek army during World War II, his fiancée falls in love with the local Italian commander.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTA3Nzg5YzYtMDIzNy00ZmNlLWIxN2UtNTFhM2M5MmMyYmJkXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA3Nzg5YzYtMDIzNy00ZmNlLWIxN2UtNTFhM2M5MmMyYmJkXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Penélope Cruz",
+      "John Hurt"
+    ]
   },
   {
     "id": "tt0245562",
@@ -488,7 +663,12 @@
     "type": "movie",
     "runtime": "134",
     "description": "Two U.S. Marines in World War II are assigned to protect the Navajo Marines who use their native language as an unbreakable radio cipher.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzZmNzQ5YmUtMzVmYi00ODRkLTkxMGYtYmI0M2IyZTVkYTRmXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzZmNzQ5YmUtMzVmYi00ODRkLTkxMGYtYmI0M2IyZTVkYTRmXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Adam Beach",
+      "Peter Stormare"
+    ]
   },
   {
     "id": "tt0259324",
@@ -502,7 +682,12 @@
     "type": "movie",
     "runtime": "110",
     "description": "A motorcycle stuntman who sold his soul becomes a supernatural agent of vengeance.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzIyNDE5ODI1OV5BMl5BanBnXkFtZTcwNTIyNDE0MQ@@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzIyNDE5ODI1OV5BMl5BanBnXkFtZTcwNTIyNDE0MQ@@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Eva Mendes",
+      "Sam Elliott"
+    ]
   },
   {
     "id": "tt0259929",
@@ -516,7 +701,12 @@
     "type": "movie",
     "runtime": "77",
     "description": "Old bitter miser Ebenezer Scrooge (Simon Callow) who makes excuses for his uncaring nature learns real compassion when three ghosts visit him on Christmas Eve.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTgzMDMyNDA0Nl5BMl5BanBnXkFtZTcwMzY0NjEzNA@@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgzMDMyNDA0Nl5BMl5BanBnXkFtZTcwMzY0NjEzNA@@._V1_SX300.jpg",
+    "actors": [
+      "Simon Callow",
+      "Kate Winslet",
+      "Nicolas Cage"
+    ]
   },
   {
     "id": "tt0268126",
@@ -529,7 +719,12 @@
     "type": "movie",
     "runtime": "115",
     "description": "A lovelorn screenwriter becomes desperate as he tries and fails to adapt 'The Orchid Thief' by Susan Orlean for the screen.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmQ1MWMxZjEtNmNmYi00ZGFhLWExZDItODcwNzlmZjg0YzNlXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmQ1MWMxZjEtNmNmYi00ZGFhLWExZDItODcwNzlmZjg0YzNlXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Meryl Streep",
+      "Chris Cooper"
+    ]
   },
   {
     "id": "tt0325805",
@@ -543,7 +738,12 @@
     "type": "movie",
     "runtime": "116",
     "description": "A phobic con artist and his protégé are on the verge of pulling off a lucrative swindle when the former's teenage daughter arrives unexpectedly.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA3NjMyNjIyMF5BMl5BanBnXkFtZTYwOTgzMDI3._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA3NjMyNjIyMF5BMl5BanBnXkFtZTYwOTgzMDI3._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Alison Lohman",
+      "Sam Rockwell"
+    ]
   },
   {
     "id": "tt0368891",
@@ -557,7 +757,12 @@
     "type": "movie",
     "runtime": "131",
     "description": "A historian races to find the legendary Templar Treasure before a team of mercenaries.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3NTc4OTYxMF5BMl5BanBnXkFtZTcwMjk5NzUyMw@@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3NTc4OTYxMF5BMl5BanBnXkFtZTcwMjk5NzUyMw@@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Diane Kruger",
+      "Justin Bartha"
+    ]
   },
   {
     "id": "tt0375568",
@@ -571,7 +776,12 @@
     "type": "movie",
     "runtime": "94",
     "description": "When an android replica of a boy is rejected by his aggrieved creator, he goes off to find his own identity in an adventure that would make him the greatest hero of his time.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTI5NTEwNTcxMl5BMl5BanBnXkFtZTcwMDEyMTE4Mg@@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI5NTEwNTcxMl5BMl5BanBnXkFtZTcwMDEyMTE4Mg@@._V1_SX300.jpg",
+    "actors": [
+      "Freddie Highmore",
+      "Nicolas Cage",
+      "Kristen Bell"
+    ]
   },
   {
     "id": "tt0384680",
@@ -584,7 +794,12 @@
     "type": "movie",
     "runtime": "102",
     "description": "A Chicago weatherman separated from his wife and children debates whether professional and personal success are mutually exclusive.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4NzAxMTE3Ml5BMl5BanBnXkFtZTYwMDAwMjY3._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4NzAxMTE3Ml5BMl5BanBnXkFtZTYwMDAwMjY3._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Hope Davis",
+      "Nicholas Hoult"
+    ]
   },
   {
     "id": "tt0399295",
@@ -597,7 +812,12 @@
     "type": "movie",
     "runtime": "122",
     "description": "An arms dealer confronts the morality of his work as he is being chased by an INTERPOL Agent.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNThlY2NkYmMtNTFhNi00MzBiLWJmNzEtZjk5MzYwYWU2MjllXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNThlY2NkYmMtNTFhNi00MzBiLWJmNzEtZjk5MzYwYWU2MjllXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Ethan Hawke",
+      "Jared Leto"
+    ]
   },
   {
     "id": "tt0429589",
@@ -611,7 +831,12 @@
     "type": "movie",
     "runtime": "88",
     "description": "After Lucas Nickle floods an ant colony with his water gun, he's magically shrunken down to insect size and sentenced to hard labor in the ruins.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjE2OTYwMzQzNl5BMl5BanBnXkFtZTcwNDM1MjMzMQ@@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE2OTYwMzQzNl5BMl5BanBnXkFtZTcwNDM1MjMzMQ@@._V1_SX300.jpg",
+    "actors": [
+      "Paul Giamatti",
+      "Nicolas Cage",
+      "Julia Roberts"
+    ]
   },
   {
     "id": "tt0435705",
@@ -625,7 +850,12 @@
     "type": "movie",
     "runtime": "96",
     "description": "A Las Vegas magician who can see into the future is pursued by FBI agents seeking to use his abilities to prevent a nuclear terrorist attack.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTg3MjgyNjE1Nl5BMl5BanBnXkFtZTcwNTY1NDU0MQ@@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg3MjgyNjE1Nl5BMl5BanBnXkFtZTcwNTY1NDU0MQ@@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Julianne Moore",
+      "Jessica Biel"
+    ]
   },
   {
     "id": "tt0448011",
@@ -639,7 +869,12 @@
     "type": "movie",
     "runtime": "121",
     "description": "M.I.T. professor John Koestler links a mysterious list of numbers from a time capsule to past and future disasters and sets out to prevent the ultimate catastrophe.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTMyMjgyMDIyM15BMl5BanBnXkFtZTcwNjg3MjAyMg@@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMyMjgyMDIyM15BMl5BanBnXkFtZTcwNjg3MjAyMg@@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Chandler Canterbury",
+      "Rose Byrne"
+    ]
   },
   {
     "id": "tt0450345",
@@ -653,7 +888,12 @@
     "type": "movie",
     "runtime": "102",
     "description": "A sheriff investigating the disappearance of a young girl from a small island discovers there's a larger mystery to solve among the island's secretive, neo-pagan community.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWM1MjYzM2MtY2RmNS00OGUxLTlkNGItZjM3YjdmMTk1YjQ4XkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWM1MjYzM2MtY2RmNS00OGUxLTlkNGItZjM3YjdmMTk1YjQ4XkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Ellen Burstyn",
+      "Leelee Sobieski"
+    ]
   },
   {
     "id": "tt0465234",
@@ -667,7 +907,12 @@
     "type": "movie",
     "runtime": "124",
     "description": "Benjamin Gates must follow a clue left in John Wilkes Booth's diary to prove his ancestor's innocence in the assassination of Abraham Lincoln.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjEwMjUyOTQ0MF5BMl5BanBnXkFtZTYwODA2Njk3._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEwMjUyOTQ0MF5BMl5BanBnXkFtZTYwODA2Njk3._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Diane Kruger",
+      "Justin Bartha"
+    ]
   },
   {
     "id": "tt0469641",
@@ -681,7 +926,12 @@
     "type": "movie",
     "runtime": "129",
     "description": "Two Port Authority police officers become trapped under the rubble of the World Trade Center.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTIxMzE5ODEwOV5BMl5BanBnXkFtZTcwMzM3MzIzMQ@@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTIxMzE5ODEwOV5BMl5BanBnXkFtZTcwMzM3MzIzMQ@@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Michael Peña",
+      "Maria Bello"
+    ]
   },
   {
     "id": "tt0479997",
@@ -695,7 +945,12 @@
     "type": "movie",
     "runtime": "95",
     "description": "14th-century knights transport a suspected witch to a monastery, where monks deduce that her powers could be the source of the Black Plague.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzc3MjYxNzg2N15BMl5BanBnXkFtZTcwNzQyMTkwNA@@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzc3MjYxNzg2N15BMl5BanBnXkFtZTcwNzQyMTkwNA@@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Ron Perlman",
+      "Claire Foy"
+    ]
   },
   {
     "id": "tt0481499",
@@ -709,7 +964,12 @@
     "type": "movie",
     "runtime": "98",
     "description": "In the primeval era, Grug and his family risk the dangers of their surroundings to find a new dwelling place. Along the way, they meet a modern boy who woos them with his adventurous ways.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyOTc2OTA1Ml5BMl5BanBnXkFtZTcwOTI1MjkzOQ@@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyOTc2OTA1Ml5BMl5BanBnXkFtZTcwOTI1MjkzOQ@@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Ryan Reynolds",
+      "Emma Stone"
+    ]
   },
   {
     "id": "tt0814022",
@@ -723,7 +983,12 @@
     "type": "movie",
     "runtime": "99",
     "description": "A hitman who's in Bangkok to pull off a series of jobs violates his personal code when he falls for a local woman and bonds with his errand boy.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDVjMWEzNjQtOWM3My00NzQzLTk0YmItMjBmY2I0YzRmMjhlXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDVjMWEzNjQtOWM3My00NzQzLTk0YmItMjBmY2I0YzRmMjhlXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Charlie Yeung",
+      "Shahkrit Yamnarm"
+    ]
   },
   {
     "id": "tt0963966",
@@ -737,7 +1002,12 @@
     "type": "movie",
     "runtime": "109",
     "description": "A protege of the magician Merlin must train his teacher's successor - an introverted but resourceful physics prodigy - in the art of sorcery to prevent the return of Morgana le Fay.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BM2Y0MGJhZTAtYjBkNS00MmM4LWJmOWYtNjQ3ZTFlMmRhZGY0XkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2Y0MGJhZTAtYjBkNS00MmM4LWJmOWYtNjQ3ZTFlMmRhZGY0XkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Jay Baruchel",
+      "Alfred Molina"
+    ]
   },
   {
     "id": "tt10690676",
@@ -750,7 +1020,12 @@
     "type": "movie",
     "runtime": "75",
     "description": "A government agent must track down and kill a terrorist before he loses his full memory from dementia.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjY4MjE2Y2QtNTljOS00Y2Y4LWJlMjktOTI3ODNkMzlhMTBhXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjY4MjE2Y2QtNTljOS00Y2Y4LWJlMjktOTI3ODNkMzlhMTBhXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Irène Jacob",
+      "Anton Yelchin"
+    ]
   },
   {
     "id": "tt1071875",
@@ -764,7 +1039,12 @@
     "type": "movie",
     "runtime": "96",
     "description": "Johnny Blaze, tortured by the Ghost Rider's curse, gets a chance of redemption through protecting the Devil's son, whose father is pursuing him.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2FmZGVlNTgtYTllNC00YmUzLTk5YmUtNWNhMzk3ZmE2NmQ0XkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2FmZGVlNTgtYTllNC00YmUzLTk5YmUtNWNhMzk3ZmE2NmQ0XkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Ciarán Hinds",
+      "Idris Elba"
+    ]
   },
   {
     "id": "tt1095217",
@@ -778,7 +1058,12 @@
     "type": "movie",
     "runtime": "122",
     "description": "Terence McDonagh is a drug- and gambling-addled detective in post-Katrina New Orleans investigating the killing of five Senegalese immigrants.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyMzY0NTMzMF5BMl5BanBnXkFtZTcwMTc1MjY4Mg@@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyMzY0NTMzMF5BMl5BanBnXkFtZTcwMTc1MjY4Mg@@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Eva Mendes",
+      "Russell M. Haeuser"
+    ]
   },
   {
     "id": "tt11003218",
@@ -791,7 +1076,12 @@
     "type": "movie",
     "runtime": "92",
     "description": "A truffle hunter who lives alone in the Oregon wilderness must return to his past in Portland in search of his beloved foraging pig after she is kidnapped.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDlhN2E1ODUtNzNlZi00NWE4LTlhMDAtOThjNmY1MDkwYTVkXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDlhN2E1ODUtNzNlZi00NWE4LTlhMDAtOThjNmY1MDkwYTVkXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Alex Wolff",
+      "Adam Arkin"
+    ]
   },
   {
     "id": "tt11291274",
@@ -805,7 +1095,12 @@
     "type": "movie",
     "runtime": "107",
     "description": "Movie star Nick Cage must channel his iconic screen characters when he finds himself caught in-between a dangerous super-fan and a CIA agent.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWEzMTA3MjAtOTkwYS00ZTNlLWIzYzMtMDIxNzU0NTlkMGRlXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWEzMTA3MjAtOTkwYS00ZTNlLWIzYzMtMDIxNzU0NTlkMGRlXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Pedro Pascal",
+      "Tiffany Haddish"
+    ]
   },
   {
     "id": "tt11358390",
@@ -819,7 +1114,12 @@
     "type": "movie",
     "runtime": "93",
     "description": "Renfield, Dracula's tortured henchman, is forced to capture prey for his master and do his every bidding. But now, after centuries of servitude, Renfield is ready to see if there is a life outside his boss's shadow.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDY2MWVmMTUtMTBkMS00ZWI4LWFlMDQtYjE0ZWM2NTc2NWExXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDY2MWVmMTUtMTBkMS00ZWI4LWFlMDQtYjE0ZWM2NTc2NWExXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicholas Hoult",
+      "Nicolas Cage",
+      "Awkwafina"
+    ]
   },
   {
     "id": "tt1214962",
@@ -833,7 +1133,12 @@
     "type": "movie",
     "runtime": "105",
     "description": "After his wife is assaulted, a husband enlists the services of a vigilante group to help him settle the score. Then he discovers they want a 'favor' from him in return.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTNjOTY4NjgtYjQ2NC00YjU5LWE0NzEtY2NkNjNmNDY3MTU4XkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTNjOTY4NjgtYjQ2NC00YjU5LWE0NzEtY2NkNjNmNDY3MTU4XkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "January Jones",
+      "Guy Pearce"
+    ]
   },
   {
     "id": "tt1250777",
@@ -847,7 +1152,12 @@
     "type": "movie",
     "runtime": "117",
     "description": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a superhero, even though he has no powers, training or meaningful reason to do so.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTMzNzEzMDYxM15BMl5BanBnXkFtZTcwMTc0NTMxMw@@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMzNzEzMDYxM15BMl5BanBnXkFtZTcwMTc0NTMxMw@@._V1_SX300.jpg",
+    "actors": [
+      "Aaron Taylor-Johnson",
+      "Nicolas Cage",
+      "Chloë Grace Moretz"
+    ]
   },
   {
     "id": "tt1274586",
@@ -861,7 +1171,12 @@
     "type": "movie",
     "runtime": "94",
     "description": "When a devastating illness threatens to end Evan Lake's career in the C.I.A., he goes rogue to hunt down a terrorist who tortured him during a mission gone awry years ago.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BM2FhZWI4NTQtMGYwMC00NGY5LTk2Y2QtYmJmYTYzMjBhMGIzXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2FhZWI4NTQtMGYwMC00NGY5LTk2Y2QtYmJmYTYzMjBhMGIzXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Anton Yelchin",
+      "Alexander Karim"
+    ]
   },
   {
     "id": "tt13060064",
@@ -875,7 +1190,8 @@
     "type": "tvSeries",
     "runtime": "\\N",
     "description": "",
-    "poster": ""
+    "poster": "",
+    "actors": []
   },
   {
     "id": "tt1462759",
@@ -889,7 +1205,12 @@
     "type": "movie",
     "runtime": "105",
     "description": "An Ivy League drop-out travels to the Colorado wilderness, where he joins a team of buffalo hunters on a journey that puts his life and sanity at risk. Based on the highly acclaimed novel by John Williams.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2VkMDg1NGItNGU1My00OTMyLTg4NDItMjFhZjE0ZjQ3NjllXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2VkMDg1NGItNGU1My00OTMyLTg4NDItMjFhZjE0ZjQ3NjllXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Fred Hechinger",
+      "Jeremy Bobb"
+    ]
   },
   {
     "id": "tt14827638",
@@ -903,7 +1224,12 @@
     "type": "movie",
     "runtime": "103",
     "description": "When Ashley and her young daughter Sarah get caught up in a criminal enterprise that puts their lives at risk, she turns to estranged father Matt, currently living the life of a retired beach bum in the Cayman Islands.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGI3ODc4ZTUtZmNiOC00MzUzLTg1NTItZTUwNDViNDNhNzgxXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGI3ODc4ZTUtZmNiOC00MzUzLTg1NTItZTUwNDViNDNhNzgxXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Ashley Greene",
+      "Thalia Campbell"
+    ]
   },
   {
     "id": "tt1502404",
@@ -917,7 +1243,12 @@
     "type": "movie",
     "runtime": "104",
     "description": "A vengeful father escapes from hell and chases after the men who killed his daughter and kidnapped his granddaughter.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjIwNTM4Njg2NF5BMl5BanBnXkFtZTcwNDQwMTAwNA@@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIwNTM4Njg2NF5BMl5BanBnXkFtZTcwNDQwMTAwNA@@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Amber Heard",
+      "William Fichtner"
+    ]
   },
   {
     "id": "tt1552224",
@@ -931,7 +1262,12 @@
     "type": "movie",
     "runtime": "99",
     "description": "A mysterious warrior teams up with the daughter and son of a deposed Chinese Emperor to defeat their cruel brother, who seeks their deaths.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BODk0MTE3ODg5MV5BMl5BanBnXkFtZTgwNDMwMjEyNDE@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BODk0MTE3ODg5MV5BMl5BanBnXkFtZTgwNDMwMjEyNDE@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Hayden Christensen",
+      "Alexandre Bailly"
+    ]
   },
   {
     "id": "tt16360004",
@@ -945,7 +1281,12 @@
     "type": "movie",
     "runtime": "\\N",
     "description": "After leaving off from Spider-Man: Across the Spider-Verse, the story continues.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWZjYTgzZmItMGEwZS00NTgwLThhOWItMzM2MTY0ODZjZGVhXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWZjYTgzZmItMGEwZS00NTgwLThhOWItMzM2MTY0ODZjZGVhXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Shameik Moore",
+      "Hailee Steinfeld",
+      "Brian Tyree Henry"
+    ]
   },
   {
     "id": "tt1656186",
@@ -959,7 +1300,12 @@
     "type": "movie",
     "runtime": "96",
     "description": "A former thief frantically searches for his missing daughter, who has been kidnapped and locked in the trunk of a taxi.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzY0ODM1NzU0OV5BMl5BanBnXkFtZTcwNTExNjIyOA@@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzY0ODM1NzU0OV5BMl5BanBnXkFtZTcwNTExNjIyOA@@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Malin Akerman",
+      "Josh Lucas"
+    ]
   },
   {
     "id": "tt1674784",
@@ -973,7 +1319,12 @@
     "type": "movie",
     "runtime": "91",
     "description": "As they're held for ransom, a husband and wife's predicament grows more dire amid the discovery of betrayal and deception.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTM4NTc0Mzk5N15BMl5BanBnXkFtZTcwNDA4NDUyNg@@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM4NTc0Mzk5N15BMl5BanBnXkFtZTcwNDA4NDUyNg@@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Nicole Kidman",
+      "Cam Gigandet"
+    ]
   },
   {
     "id": "tt2005374",
@@ -987,7 +1338,12 @@
     "type": "movie",
     "runtime": "105",
     "description": "An Alaska State Trooper partners with a young woman who escaped the clutches of serial killer Robert Hansen to bring the murderer to justice. Based on actual events.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjBhMDdiNzEtNTdjMS00ZTBkLWI2NWQtMzk0YjFiODRlYTgxXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjBhMDdiNzEtNTdjMS00ZTBkLWI2NWQtMzk0YjFiODRlYTgxXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Vanessa Hudgens",
+      "John Cusack"
+    ]
   },
   {
     "id": "tt2032572",
@@ -1001,7 +1357,12 @@
     "type": "movie",
     "runtime": "128",
     "description": "During World War II, an American navy ship is sunk by a Japanese submarine leaving 890 crewmen stranded in shark infested waters.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTNjOGRhNDktZWI1MC00OWE2LWIxMmUtNWI3ZDk2ZWM3Yjc5XkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTNjOGRhNDktZWI1MC00OWE2LWIxMmUtNWI3ZDk2ZWM3Yjc5XkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Tom Sizemore",
+      "Thomas Jane"
+    ]
   },
   {
     "id": "tt21942866",
@@ -1015,7 +1376,12 @@
     "type": "movie",
     "runtime": "102",
     "description": "An ordinary family man finds his life turned upside down when strangers suddenly start seeing him in their dreams.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTVhZjNhMzktOGQ2YS00OGVkLWExNGEtMjBlYWI3MjVmYmM1XkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTVhZjNhMzktOGQ2YS00OGVkLWExNGEtMjBlYWI3MjVmYmM1XkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Lily Bird",
+      "Nicolas Cage",
+      "Julianne Nicholson"
+    ]
   },
   {
     "id": "tt21991654",
@@ -1028,7 +1394,12 @@
     "type": "movie",
     "runtime": "90",
     "description": "Forced to drive a passenger at gunpoint, a man finds himself in a high-stakes game of cat and mouse.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGEzMDc1NWYtNTM1Yi00MjNlLTg3ODEtNjcxZTk1NjI2MzMyXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGEzMDc1NWYtNTM1Yi00MjNlLTg3ODEtNjcxZTk1NjI2MzMyXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Joel Kinnaman",
+      "Alexis Zollicoffer"
+    ]
   },
   {
     "id": "tt22939186",
@@ -1042,7 +1413,12 @@
     "type": "movie",
     "runtime": "92",
     "description": "A father and his twin teenage sons fight to survive in a remote farmhouse at the end of the world.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmQ0OTU4MDUtOTM5Yi00Y2QwLThhYTMtZGFmOWU2ZTU0Y2VlXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmQ0OTU4MDUtOTM5Yi00Y2QwLThhYTMtZGFmOWU2ZTU0Y2VlXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Jaeden Martell",
+      "Maxwell Jenkins"
+    ]
   },
   {
     "id": "tt23468450",
@@ -1056,7 +1432,12 @@
     "type": "movie",
     "runtime": "101",
     "description": "In pursuit of a serial killer, an FBI agent uncovers a series of occult clues that she must solve to end his terrifying killing spree.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmJkNGNiNjgtMzFlYy00ZDI5LWI2YzktZGVjYjI5MjQyMGU3XkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmJkNGNiNjgtMzFlYy00ZDI5LWI2YzktZGVjYjI5MjQyMGU3XkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Maika Monroe",
+      "Nicolas Cage",
+      "Blair Underwood"
+    ]
   },
   {
     "id": "tt2382396",
@@ -1070,7 +1451,12 @@
     "type": "movie",
     "runtime": "117",
     "description": "An ex-con, who is the unlikeliest of role models, meets a 15-year-old boy and is faced with the choice of redemption or ruin.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjExMzk5MTM1Ml5BMl5BanBnXkFtZTgwNzAzODgxMTE@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjExMzk5MTM1Ml5BMl5BanBnXkFtZTgwNzAzODgxMTE@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Tye Sheridan",
+      "Gary Poulter"
+    ]
   },
   {
     "id": "tt2401807",
@@ -1083,7 +1469,12 @@
     "type": "movie",
     "runtime": "92",
     "description": "When the daughter of a reformed criminal is kidnapped, he rounds up his old crew and seeks his own brand of justice.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzI2MDk3NzItY2NmNS00MzJiLThiMTYtMzlmMTMyMTI1ZmMyXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzI2MDk3NzItY2NmNS00MzJiLThiMTYtMzlmMTMyMTI1ZmMyXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Rachel Nichols",
+      "Max Ryan"
+    ]
   },
   {
     "id": "tt2467046",
@@ -1097,7 +1488,12 @@
     "type": "movie",
     "runtime": "110",
     "description": "A small group of survivors is left behind after millions of people suddenly vanish and the world is plunged into chaos and destruction.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjI4MjA2OTQxMF5BMl5BanBnXkFtZTgwMjcyMTI2MjE@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI4MjA2OTQxMF5BMl5BanBnXkFtZTgwMjcyMTI2MjE@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Lea Thompson",
+      "Cassi Thomson"
+    ]
   },
   {
     "id": "tt24818230",
@@ -1109,7 +1505,8 @@
     "type": "movie",
     "runtime": "\\N",
     "description": "",
-    "poster": ""
+    "poster": "",
+    "actors": []
   },
   {
     "id": "tt24850708",
@@ -1123,7 +1520,12 @@
     "type": "movie",
     "runtime": "104",
     "description": "In a town named Redemption, reformed gunslinger Keller and mad genius Ben are guided by spiritual leader Jericho towards vindication. While confronting their violent histories, their newfound peace is challenged by violence and re...",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGI2NzY0ZTktODZkOC00Yjg1LTkxNTEtYjIzYTUxMzNkZmFkXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGI2NzY0ZTktODZkOC00Yjg1LTkxNTEtYjIzYTUxMzNkZmFkXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Stephen Dorff",
+      "Heather Graham",
+      "Nicolas Cage"
+    ]
   },
   {
     "id": "tt27706987",
@@ -1136,7 +1538,8 @@
     "type": "movie",
     "runtime": "\\N",
     "description": "",
-    "poster": ""
+    "poster": "",
+    "actors": []
   },
   {
     "id": "tt27813235",
@@ -1148,7 +1551,12 @@
     "type": "movie",
     "runtime": "100",
     "description": "A man returns to the idyllic beach of his childhood to surf with his son. When he is humiliated by a group of locals, the man is drawn into a conflict that keeps rising and pushes him to his breaking point.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmNjNTZiNTEtMWQ1NC00YmQ4LWFhYjktMzZhOGM2MDhmMTAxXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmNjNTZiNTEtMWQ1NC00YmQ4LWFhYjktMzZhOGM2MDhmMTAxXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Finn Little",
+      "Rahel Romahn"
+    ]
   },
   {
     "id": "tt2850386",
@@ -1162,7 +1570,12 @@
     "type": "movie",
     "runtime": "95",
     "description": "The prehistoric family the Croods are challenged by a rival family the Bettermans, who claim to be better and more evolved.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTI1OTFhYmQtMzM4NS00Y2NkLTlkMmEtNTJhMWU1YWI0ZGQ2XkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTI1OTFhYmQtMzM4NS00Y2NkLTlkMmEtNTJhMWU1YWI0ZGQ2XkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Emma Stone",
+      "Ryan Reynolds"
+    ]
   },
   {
     "id": "tt30460310",
@@ -1176,7 +1589,12 @@
     "type": "tvSeries",
     "runtime": "\\N",
     "description": "An aging and down on his luck private investigator in 1930s New York is forced to grapple with his past life as the city's one and only superhero.",
-    "poster": "N/A"
+    "poster": "N/A",
+    "actors": [
+      "Nicolas Cage",
+      "Andrew Lewis Caldwell",
+      "Li Jun Li"
+    ]
   },
   {
     "id": "tt32304349",
@@ -1188,7 +1606,12 @@
     "type": "movie",
     "runtime": "\\N",
     "description": "Family hiding in Roman Egypt. Son known as 'the Boy' doubts guardian 'the Carpenter', rebelling with mysterious powers. As he uses abilities, they face natural and divine horrors.",
-    "poster": "N/A"
+    "poster": "N/A",
+    "actors": [
+      "Nicolas Cage",
+      "Noah Jupe",
+      "FKA twigs"
+    ]
   },
   {
     "id": "tt32604452",
@@ -1200,7 +1623,12 @@
     "type": "movie",
     "runtime": "\\N",
     "description": "The Prince chronicles an addict's tumultuous odyssey through the high-stakes world of power, pleasure, and pain on a transformative journey toward recovery.",
-    "poster": "N/A"
+    "poster": "N/A",
+    "actors": [
+      "Scott Haze",
+      "Nicolas Cage",
+      "J.K. Simmons"
+    ]
   },
   {
     "id": "tt3481634",
@@ -1213,7 +1641,12 @@
     "type": "movie",
     "runtime": "105",
     "description": "A mother looks to escape her abusive past by moving to a new town where she befriends another mother, who grows suspicious of her.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDhjOWE4YmEtYmJlOS00NGM2LWI2N2MtNjc2ZWMyMjFhNDE5XkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDhjOWE4YmEtYmJlOS00NGM2LWI2N2MtNjc2ZWMyMjFhNDE5XkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Gina Gershon",
+      "Nicky Whelan",
+      "Nicolas Cage"
+    ]
   },
   {
     "id": "tt3687398",
@@ -1225,7 +1658,12 @@
     "type": "movie",
     "runtime": "90",
     "description": "In the aftermath of the 2010 BP oil spill, an idealistic but flawed politician is forced to confront his dysfunctional life after his career is destroyed in a sex scandal.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTkyMDkwNDIyMV5BMl5BanBnXkFtZTgwNDU1OTEwNjE@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkyMDkwNDIyMV5BMl5BanBnXkFtZTgwNDU1OTEwNjE@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Sarah Paulson",
+      "Peter Fonda"
+    ]
   },
   {
     "id": "tt3733774",
@@ -1239,7 +1677,12 @@
     "type": "movie",
     "runtime": "92",
     "description": "A pair of cops investigating a drug invasion stumble upon a mysterious bank vault.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTA4NjE3OTk1MzdeQTJeQWpwZ15BbWU4MDMwMTk1Mjgx._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA4NjE3OTk1MzdeQTJeQWpwZ15BbWU4MDMwMTk1Mjgx._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Elijah Wood",
+      "Sky Ferreira"
+    ]
   },
   {
     "id": "tt3733778",
@@ -1252,7 +1695,12 @@
     "type": "movie",
     "runtime": "94",
     "description": "A professor frantically searches for his son who was abducted during a Halloween carnival.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzY3MTc3NzQ1Nl5BMl5BanBnXkFtZTgwNjk2MDE3NjE@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzY3MTc3NzQ1Nl5BMl5BanBnXkFtZTgwNjk2MDE3NjE@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Sarah Wayne Callies",
+      "Veronica Ferres"
+    ]
   },
   {
     "id": "tt3758162",
@@ -1266,7 +1714,12 @@
     "type": "movie",
     "runtime": "103",
     "description": "An ex-enforcer for a local crime syndicate has vowed to enact retribution on his mob bosses after 19 years of wrongful imprisonment. The only thing diverting his violent plans is a new found relationship to his beloved son.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmI4ODM4OTctOWExYS00NWJlLWE0MGEtODk5NDUxZjk1NjkwXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmI4ODM4OTctOWExYS00NWJlLWE0MGEtODk5NDUxZjk1NjkwXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Noah Le Gros",
+      "Karolina Wydra"
+    ]
   },
   {
     "id": "tt4054654",
@@ -1280,7 +1733,12 @@
     "type": "movie",
     "runtime": "93",
     "description": "A crew of ex-cons are hired by a Cleveland mafioso to kidnap the baby of a rival mobster.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTc0ODExNjM4NV5BMl5BanBnXkFtZTgwNzY4ODYxMDI@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc0ODExNjM4NV5BMl5BanBnXkFtZTgwNzY4ODYxMDI@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Willem Dafoe",
+      "Christopher Matthew Cook"
+    ]
   },
   {
     "id": "tt4382824",
@@ -1294,7 +1752,12 @@
     "type": "movie",
     "runtime": "92",
     "description": "After a personal visit by God himself, the eccentric construction worker Gary Faulkner takes the decision to embark on an adventure in the badlands of Pakistan to bring Al-Qaeda's leader Osama Bin Laden to justice.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzNiZjFlYzQtMzc4YS00OGRkLWI3MTktYTg3MDZjYjE5ODNkXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzNiZjFlYzQtMzc4YS00OGRkLWI3MTktYTg3MDZjYjE5ODNkXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Russell Brand",
+      "Wendi McLendon-Covey"
+    ]
   },
   {
     "id": "tt4976192",
@@ -1308,7 +1771,12 @@
     "type": "movie",
     "runtime": "86",
     "description": "While on a routine patrol, an aging cop, his partner and their ride-along, get caught in a standoff with a band of former mercenaries robbing a bank.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNjA0MjMzNF5BMl5BanBnXkFtZTgwNTM2NzczNTM@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNjA0MjMzNF5BMl5BanBnXkFtZTgwNTM2NzczNTM@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Sophie Skelton",
+      "Michael Rainey Jr."
+    ]
   },
   {
     "id": "tt5073642",
@@ -1322,7 +1790,12 @@
     "type": "movie",
     "runtime": "111",
     "description": "A secluded farm is struck by a strange meteorite which has apocalyptic consequences for the family living there and possibly the world.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmNlNDMwNzUtYzJlOC00MjRkLTkyNjYtZjY3NTk1NjZlZGMxXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmNlNDMwNzUtYzJlOC00MjRkLTkyNjYtZjY3NTk1NjZlZGMxXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Joely Richardson",
+      "Madeleine Arthur"
+    ]
   },
   {
     "id": "tt5460530",
@@ -1336,7 +1809,12 @@
     "type": "movie",
     "runtime": "99",
     "description": "One vigilante policeman comes to the aid of a single mother seeking to bring her rapists to justice.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTk2ZjBjZGEtMWZjMC00MDdjLWFiMDktZGI0Yjk5YzMxZWY5XkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTk2ZjBjZGEtMWZjMC00MDdjLWFiMDktZGI0Yjk5YzMxZWY5XkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Anna Hutchison",
+      "Talitha Eliana Bateman"
+    ]
   },
   {
     "id": "tt5462326",
@@ -1350,7 +1828,12 @@
     "type": "movie",
     "runtime": "86",
     "description": "A teenage girl and her younger brother must survive a wild 24 hours during which a mass hysteria of unknown origin causes parents to turn violently on their own kids.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTUxNDY5MTYtNDBlZC00ZDUxLTlmMmMtODRmZDM4ZGUyODhkXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTUxNDY5MTYtNDBlZC00ZDUxLTlmMmMtODRmZDM4ZGUyODhkXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Selma Blair",
+      "Anne Winters"
+    ]
   },
   {
     "id": "tt5580536",
@@ -1364,7 +1847,12 @@
     "type": "movie",
     "runtime": "92",
     "description": "A Southern businessman attempts to rescue his kidnapped mobster brother.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjUyZDI1ZmQtYzE5MS00ZGE5LWI4ZjMtZDkxY2VlMGFiZDhkXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjUyZDI1ZmQtYzE5MS00ZGE5LWI4ZjMtZDkxY2VlMGFiZDhkXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "John Cusack",
+      "Adrian Grenier"
+    ]
   },
   {
     "id": "tt5792656",
@@ -1378,7 +1866,12 @@
     "type": "movie",
     "runtime": "100",
     "description": "The CEO of an international conglomerate sends two of his most regarded executives to investigate why shipments of cocaine are being hijacked and over cut somewhere on the supply chain.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTYwMWFjM2UtMDRjNy00ZWM1LTk5ZmEtNzQ3YzNlM2U0ZDI3XkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTYwMWFjM2UtMDRjNy00ZWM1LTk5ZmEtNzQ3YzNlM2U0ZDI3XkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Laurence Fishburne",
+      "Leslie Bibb"
+    ]
   },
   {
     "id": "tt6083648",
@@ -1391,7 +1884,12 @@
     "type": "movie",
     "runtime": "103",
     "description": "Ray must race to save his wife and himself from a gruesome secret connected to a desert hotel.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTYxMzg1OTI3Nl5BMl5BanBnXkFtZTgwOTQ4Njk2NDM@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYxMzg1OTI3Nl5BMl5BanBnXkFtZTgwOTQ4Njk2NDM@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Robin Tunney",
+      "Marc Blucas"
+    ]
   },
   {
     "id": "tt6143568",
@@ -1404,7 +1902,12 @@
     "type": "movie",
     "runtime": "95",
     "description": "A dystopian thriller set in the year 2030 that sees the world in a permanent state of economic recession and facing serious environmental problems as a result of global warming.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjQwNTk0NzAzNl5BMl5BanBnXkFtZTgwOTkyNzA2NDM@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQwNTk0NzAzNl5BMl5BanBnXkFtZTgwOTkyNzA2NDM@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Sarah Lind",
+      "Jakob Davies"
+    ]
   },
   {
     "id": "tt6372694",
@@ -1418,7 +1921,12 @@
     "type": "movie",
     "runtime": "103",
     "description": "A notorious criminal must break an evil curse in order to rescue an abducted girl who has mysteriously disappeared.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDE0MGFkYzktYTMyNS00Mjk1LWI3YzEtYWYxMzAxNTI2YmUyXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDE0MGFkYzktYTMyNS00Mjk1LWI3YzEtYWYxMzAxNTI2YmUyXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Sofia Boutella",
+      "Nick Cassavetes"
+    ]
   },
   {
     "id": "tt6998518",
@@ -1432,7 +1940,12 @@
     "type": "movie",
     "runtime": "121",
     "description": "The enchanted lives of a couple in a secluded forest are brutally shattered by a nightmarish hippie cult and their demon-biker henchmen, propelling a man into a spiraling, surreal rampage of vengeance.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGI1NTNhNzctOTk4OC00N2RjLTkwYTgtOGMwMWFjMzM5ZjNiXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGI1NTNhNzctOTk4OC00N2RjLTkwYTgtOGMwMWFjMzM5ZjNiXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Andrea Riseborough",
+      "Linus Roache"
+    ]
   },
   {
     "id": "tt7295450",
@@ -1446,7 +1959,12 @@
     "type": "movie",
     "runtime": "90",
     "description": "A young woman in a coma appears to be possessed by the soul of a tormented man's dead wife.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjY1NTU3ZjUtZWIzOC00ODFiLTk2YzAtMjFmZTk5YTc2YzgwXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjY1NTU3ZjUtZWIzOC00ODFiLTk2YzAtMjFmZTk5YTc2YzgwXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Franka Potente",
+      "Penelope Mitchell"
+    ]
   },
   {
     "id": "tt7394816",
@@ -1459,7 +1977,12 @@
     "type": "movie",
     "runtime": "97",
     "description": "Frank's caught wildlife in the Brazilian jungle incl. a 400 lbs. white jaguar. He ships it on the same ship as an arrested assassin. The assassin breaks free and frees the animals.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2E0Njk1YjgtMDRlYi00NDRmLTg4NjUtNmE5NWIxZTlmNDg2XkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2E0Njk1YjgtMDRlYi00NDRmLTg4NjUtNmE5NWIxZTlmNDg2XkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Famke Janssen",
+      "Kevin Durand"
+    ]
   },
   {
     "id": "tt8114980",
@@ -1473,7 +1996,12 @@
     "type": "movie",
     "runtime": "88",
     "description": "A quiet drifter is tricked into a janitorial job at the now condemned Willy's Wonderland. The mundane tasks suddenly become an all-out fight for survival against wave after wave of demonic animatronics. Fists fly, kicks land, tita...",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGUxOTQ4ZjItOTExNi00MzIzLTkzMTUtMjkxNDFiNTUzM2U0XkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGUxOTQ4ZjItOTExNi00MzIzLTkzMTUtMjkxNDFiNTUzM2U0XkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Emily Tosta",
+      "Beth Grant"
+    ]
   },
   {
     "id": "tt8380776",
@@ -1487,7 +2015,12 @@
     "type": "movie",
     "runtime": "97",
     "description": "A young father is charged with murder and must prove his innocence by recalling a very twisted and dark night of events.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmZiNDNlNDQtZjc0Zi00OWY5LWEwZjUtNzUxNWY0Mzc3NDQ4XkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmZiNDNlNDQtZjc0Zi00OWY5LWEwZjUtNzUxNWY0Mzc3NDQ4XkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "KaDee Strickland",
+      "Luke Benward"
+    ]
   },
   {
     "id": "tt8535180",
@@ -1501,7 +2034,12 @@
     "type": "movie",
     "runtime": "91",
     "description": "Three strangers' lives are inevitably entangled in a conflict none of them are prepared for.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYThkM2NmYzUtYWI4Ny00ZjhhLThmMDMtNTU4NDZjMzY1ZmVlXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYThkM2NmYzUtYWI4Ny00ZjhhLThmMDMtNTU4NDZjMzY1ZmVlXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Anabelle Acosta",
+      "Enrico Colantoni"
+    ]
   },
   {
     "id": "tt8593824",
@@ -1515,7 +2053,12 @@
     "type": "movie",
     "runtime": "95",
     "description": "An old gunslinger and his daughter must face the consequences of his past, when the son of a man he murdered years ago arrives to take his revenge.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjUwNTcyMTEtMDRjMi00OTg5LWI1NzAtM2FjZmY3MDg5Y2NiXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjUwNTcyMTEtMDRjMi00OTg5LWI1NzAtM2FjZmY3MDg5Y2NiXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Nicolas Cage",
+      "Ryan Kiera Armstrong",
+      "Noah Le Gros"
+    ]
   },
   {
     "id": "tt9624766",
@@ -1529,6 +2072,11 @@
     "type": "movie",
     "runtime": "102",
     "description": "Every six years, an ancient order of jiu-jitsu fighters joins forces to battle a vicious race of alien invaders. But when a celebrated war hero goes down in defeat, the fate of the planet and mankind hangs in the balance.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDY5MDk2YmEtMWYxYy00Nzc2LTgzZmItMGYxMjk0NTI1MTczXkEyXkFqcGc@._V1_SX300.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDY5MDk2YmEtMWYxYy00Nzc2LTgzZmItMGYxMjk0NTI1MTczXkEyXkFqcGc@._V1_SX300.jpg",
+    "actors": [
+      "Alain Moussi",
+      "Nicolas Cage",
+      "Raymond Pinharry"
+    ]
   }
 ]

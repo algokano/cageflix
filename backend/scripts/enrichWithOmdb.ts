@@ -14,6 +14,7 @@ interface OmdbResponse {
   Poster: string;
   Response: "True" | "False";
   Error?: string;
+  Actors: string;
 }
 
 const BASE_URL = "https://www.omdbapi.com";
@@ -36,6 +37,9 @@ const enrich = async () => {
         ...movie,
         description: data.Plot || "",
         poster: data.Poster || "",
+        actors: data.Actors
+          ? data.Actors.split(",").map((name) => name.trim())
+          : [],
       });
 
       console.log(`Enriched: ${movie.title}`);
