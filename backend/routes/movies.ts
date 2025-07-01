@@ -23,13 +23,13 @@ router.get("/", (req, res) => {
 
   let filtered = movies;
 
-  // Fuzzy search (title, desc, genre, etc.)
+  // Fuzzy search
   if (q && typeof q === "string") {
     const result = fuse.search(q);
     filtered = result.map((r) => r.item);
   }
 
-  // Filter by genre (exact match)
+  // Filter by genre
   if (genre && typeof genre === "string") {
     filtered = filtered.filter((m) => m.genres.includes(genre));
   }

@@ -3,7 +3,15 @@ import path from "path";
 import fetch from "node-fetch";
 import { Movie } from "../types";
 
-const OMDB_API_KEY = "8e78e5c5";
+import dotenv from "dotenv";
+dotenv.config();
+
+const OMDB_API_KEY = process.env.OMDB_API_KEY || "";
+
+if (!OMDB_API_KEY) {
+  throw new Error("OMDB_API_KEY is not defined in .env");
+}
+
 const INPUT_PATH = path.join(__dirname, "..", "data", "cage_movies.json");
 const OUTPUT_PATH = INPUT_PATH;
 

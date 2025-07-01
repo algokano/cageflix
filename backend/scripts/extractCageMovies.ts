@@ -70,7 +70,6 @@ const getTitleDetails = async (titleSet: Set<string>) => {
   });
 };
 
-// Main
 const main = async () => {
   console.log(`Looking up ${CAGE_NAME}...`);
   const cageId = await getNicolasCageId();
