@@ -2,6 +2,8 @@
 
 This monorepo contains the backend and frontend of the Cageflix app — a movie listing platform powered by IMDB data.
 
+<img width="600" alt="Screenshot 2025-07-02 at 18 37 17" src="https://github.com/user-attachments/assets/c9aaa287-b5d5-43a5-81d9-a3d070c43666" />
+
 ---
 
 ## Backend (`/backend`)
