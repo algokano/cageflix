@@ -1,7 +1,4 @@
-import {
-  useInfiniteQuery,
-  type QueryFunctionContext,
-} from "@tanstack/react-query";
+import { useInfiniteQuery } from "@tanstack/react-query";
 import type { Movie } from "../../types";
 import api from "../../api";
 import { QUERY_KEYS } from "./queryKeys";
@@ -14,20 +11,28 @@ interface MoviesResponse {
   results: Movie[];
 }
 
+type Params = {
+  pageParam: number;
+  searchTerm?: string;
+};
+
 const fetchMovies = async ({
   pageParam = 1,
-}: QueryFunctionContext): Promise<MoviesResponse> => {
+  searchTerm = "",
+}: Params): Promise<MoviesResponse> => {
+  const query = searchTerm ? `&q=${encodeURIComponent(searchTerm)}` : "";
   const response = await api.get<MoviesResponse>(
-    `${endpoints.movies}?page=${pageParam}`
+    `${endpoints.movies}?page=${pageParam}${query}`
   );
   return response.data;
 };
 
-const useMovies = () => {
+const useMovies = (searchTerm: string) => {
   const { data, isFetching, fetchNextPage, hasNextPage, isFetchingNextPage } =
     useInfiniteQuery<MoviesResponse, Error>({
-      queryKey: [QUERY_KEYS.movies],
-      queryFn: fetchMovies,
+      queryKey: [QUERY_KEYS.movies, searchTerm],
+      queryFn: ({ pageParam }) =>
+        fetchMovies({ pageParam: pageParam as number, searchTerm }),
       initialPageParam: 1,
       getNextPageParam: (lastPage, allPages) => {
         const totalPages = Math.ceil(lastPage.total / lastPage.limit);
@@ -39,6 +44,7 @@ const useMovies = () => {
   return {
     movies: data?.pages.flatMap((page) => page.results) ?? [],
     isLoading: isFetching && !data,
+    total: data?.pages[0]?.total ?? 0,
     isFetchingNextPage,
     fetchNextPage,
     hasNextPage,

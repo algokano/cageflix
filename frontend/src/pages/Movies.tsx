@@ -1,10 +1,24 @@
 import { useEffect, useRef } from "react";
 import { MovieCard } from "../components";
 import useMovies from "../hooks/queries/useMovies";
+import { useOutletContext } from "react-router-dom";
+import useDebounce from "../hooks/useDebounce";
+
+interface OutletContext {
+  searchTerm: string;
+}
 
 const MoviesPage = () => {
-  const { movies, isLoading, fetchNextPage, hasNextPage, isFetchingNextPage } =
-    useMovies();
+  const { searchTerm } = useOutletContext<OutletContext>();
+  const debouncedSearch = useDebounce(searchTerm, 400);
+  const {
+    movies,
+    isLoading,
+    fetchNextPage,
+    hasNextPage,
+    isFetchingNextPage,
+    total,
+  } = useMovies(debouncedSearch);
 
   const observerRef = useRef<HTMLDivElement>(null);
 
@@ -34,6 +48,11 @@ const MoviesPage = () => {
   return (
     <div className="flex justify-center">
       <div className="w-full max-w-7xl p-4">
+        {movies.length !== 0 && (
+          <div className="col-span-full text-center text-gray-400 mb-4">
+            {total} movies found {searchTerm ? `for "${searchTerm}"` : ""}
+          </div>
+        )}
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
           {movies.map((movie) => (
             <MovieCard
@@ -41,6 +60,9 @@ const MoviesPage = () => {
               title={movie.title}
               poster={movie.poster}
               year={movie.year}
+              genres={movie.genres}
+              description={movie.description}
+              actors={movie.actors}
             />
           ))}
 
@@ -50,9 +72,15 @@ const MoviesPage = () => {
             </div>
           )}
 
-          {!hasNextPage && (
+          {!hasNextPage && movies?.length > 0 && (
             <div className="col-span-full text-center text-green-400">
               🎉 You've seen everything!
+            </div>
+          )}
+
+          {movies.length === 0 && (
+            <div className="col-span-full text-center text-white">
+              No movies found for "{searchTerm}".
             </div>
           )}
 
