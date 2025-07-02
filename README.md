@@ -4,6 +4,8 @@ This monorepo contains the backend and frontend of the Cageflix app — a movie 
 
 <img width="600" alt="Screenshot 2025-07-02 at 18 37 17" src="https://github.com/user-attachments/assets/c9aaa287-b5d5-43a5-81d9-a3d070c43666" />
 
+Frontend - https://cageflix-frontend-85906583d2de.herokuapp.com/
+
 ---
 
 ## Backend (`/backend`)
@@ -73,7 +75,7 @@ npx ts-node server.ts
 
 ### Deployment
 
-Deployment to Heroku has not been added yet.
+https://cageflix-api-79d1e8c5813a.herokuapp.com/api/movies
 
 ---
 
@@ -139,6 +141,6 @@ Runs at [http://localhost:5173](http://localhost:5173)
 
 ### Deployment
 
-Deployment to Heroku has not been added yet.
+https://cageflix-frontend-85906583d2de.herokuapp.com/
 
 ---
