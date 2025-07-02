@@ -69,7 +69,7 @@ npx ts-node server.ts
 |--------|-------------------------------------------|--------------------------------------------------|
 | GET    | `/api/movies`                             | Paginated list of movies                         |
 | GET    | `/api/movies?page=2&limit=5`              | Second page with limit                           |
-| GET    | `/api/movies?q=ghost`                     | Fuzzy search by title/description/etc            |
+| GET    | `/api/movies?q=ghost`                     | Fuzzy search by title/description/actors         |
 | GET    | `/api/movies?genre=Action`                | Filter by genre                                  |
 | GET    | `/api/movies?q=car&genre=Action&page=1`   | Combined filters and pagination                  |
 
@@ -91,7 +91,6 @@ The frontend is a React + Vite + Tailwind app that calls the backend APIs and di
 - Infinite scroll (loads more on scroll)
 - Responsive layout (mobile-friendly)
 - Sticky navigation header
-- Filter
 - Search
 
 ### Tech Stack
